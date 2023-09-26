@@ -44,7 +44,7 @@ function App() {
       id:6,
       img: 'https://placehold.co/200x100',
       title: 'Card Title 6',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit ',
       buttonText: 'BUTTON',
     },
     {
